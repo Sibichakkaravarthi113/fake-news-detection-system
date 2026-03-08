@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+transformers>=4.10.0
+torch
+scikit-learn
+joblib
+lime
+wikipedia
+requests
+numpy
+scipy
+matplotlib
+gradio

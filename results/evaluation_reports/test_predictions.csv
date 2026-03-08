@@ -1,0 +1,3 @@
+text,label,label_id,lr_prob_fake,lr_pred,xlm_prob_fake,xlm_pred
+Miracle pill cured cancer overnight,fake,1,0.3936927912284479,0,0.45739126205444336,0
+COVID-19 vaccine reduces hospitalization risk,real,0,0.3283733646077988,0,0.4618028700351715,0
