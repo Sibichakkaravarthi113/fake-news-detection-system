@@ -7,3 +7,5 @@ __pycache__/
 *.bin
 *.joblib
 *.pkl
+# Large datasets
+data/*.csv
