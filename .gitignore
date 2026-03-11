@@ -1,26 +1,9 @@
-# Python cache
+models/
+.venv/
+venv/
 __pycache__/
 *.pyc
-
-# Model files
-models/
 *.pt
-*.pth
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Environment files
-.env
-venv/
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Large dataset files
-data/*.csv
-data/*.json
+*.bin
+*.joblib
+*.pkl
